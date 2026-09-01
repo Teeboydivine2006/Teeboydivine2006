@@ -162,6 +162,7 @@ I'm focused on consistently turning what I learn into practical projects.
 I'm open to **internships, collaborations, projects, and opportunities to learn and grow** with other developers, engineers, Data Scientists, and Machine Learning enthusiasts.
 
 📍 Lagos, Nigeria
+phone No : 07045482972
 
 💻 **GitHub:** [Famuyide Toluwlase](https://github.com/Teeboydivine2006/)
 
